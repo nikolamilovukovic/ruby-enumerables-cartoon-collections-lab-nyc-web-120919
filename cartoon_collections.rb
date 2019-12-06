@@ -1,4 +1,6 @@
-def roll_call_dwarves# code an argument here
+def roll_call_dwarves(dwarfs)
+  dwarfs.each_with_index
+  # code an argument here
   # Your code here
 end
 
