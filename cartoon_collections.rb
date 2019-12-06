@@ -18,7 +18,6 @@ def long_planteer_calls(long_planteer_calls)# code an argument here
       answer = true
       else
         answer = false
-      
       end
     end
     answer
